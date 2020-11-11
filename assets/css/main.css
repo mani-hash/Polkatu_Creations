@@ -3,7 +3,18 @@
 html {
   scroll-behavior: smooth;
 }
-
+.logot{
+	width: 4%;
+	position: fixed;
+	z-index: 2;
+	margin-left: 95%;
+	margin-top: 0.5%;
+	opacity: 60%;
+}
+.logot:hover{
+	width: 4.1%;
+	opacity: 90%;
+}
 .fa-facebook{
 	background-image: url(../../images/facebook.png);
 }
@@ -1066,6 +1077,7 @@ html {
 				color: #FFF;
 			}
 .navbar {
+	
   list-style-type: none;
   margin: 0;
   padding: 0;
