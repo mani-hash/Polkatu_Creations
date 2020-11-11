@@ -1123,6 +1123,7 @@ html {
 	border-width: 2px;
 }
 	.game_sector{
+		font-family:Arial;
 		animation: myanimation3 10s infinite;
 	}
 @keyframes myanimation3 {
